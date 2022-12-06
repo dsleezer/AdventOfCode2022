@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>AdventOfCode.RucksackReorganization</StartupObject>
+    <StartupObject>AdventOfCode.CampCleanup</StartupObject>
   </PropertyGroup>
 
 </Project>
