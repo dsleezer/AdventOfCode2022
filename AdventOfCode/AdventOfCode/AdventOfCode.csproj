@@ -5,7 +5,9 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>AdventOfCode.SupplyStacks</StartupObject>
+
+    <StartupObject>AdventOfCode.TuningTrouble</StartupObject>
+
   </PropertyGroup>
 
 </Project>
